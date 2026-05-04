@@ -1,0 +1,11 @@
+.local/
+
+.claude/
+
+ExportedData/
+Uploaded/
+RawData/
+
+tests/tmp-*/
+
+*.log

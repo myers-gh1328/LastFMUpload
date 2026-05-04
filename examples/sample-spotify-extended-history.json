@@ -1,0 +1,16 @@
+[
+  {
+    "ts": "2024-01-15T18:30:00Z",
+    "master_metadata_album_artist_name": "The Example Band",
+    "master_metadata_album_album_name": "Sample Record",
+    "master_metadata_track_name": "First Demo Track",
+    "ms_played": 185000
+  },
+  {
+    "ts": "2024-01-15T18:34:12Z",
+    "master_metadata_album_artist_name": "Demo Artist",
+    "master_metadata_album_album_name": "Reference Album",
+    "master_metadata_track_name": "Second Sample Song",
+    "ms_played": 210000
+  }
+]

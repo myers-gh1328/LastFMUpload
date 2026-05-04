@@ -1,0 +1,20 @@
+[
+  {
+    "artistName": "The Example Band",
+    "albumName": "Sample Record",
+    "trackName": "First Demo Track",
+    "time": "2024-01-15T18:30:00Z"
+  },
+  {
+    "artistName": "Demo Artist",
+    "albumName": "Reference Album",
+    "trackName": "Second Sample Song",
+    "time": "2024-01-15T18:34:12Z"
+  },
+  {
+    "artistName": "Placeholder Quartet",
+    "albumName": "Test Sessions",
+    "trackName": "Another Fake Scrobble",
+    "time": "2024-01-15T18:38:45Z"
+  }
+]
